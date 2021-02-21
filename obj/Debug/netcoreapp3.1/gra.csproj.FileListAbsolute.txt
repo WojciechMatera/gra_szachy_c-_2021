@@ -1,0 +1,13 @@
+C:\proj\nauka2021\gra\bin\Debug\netcoreapp3.1\gra.exe
+C:\proj\nauka2021\gra\bin\Debug\netcoreapp3.1\gra.deps.json
+C:\proj\nauka2021\gra\bin\Debug\netcoreapp3.1\gra.runtimeconfig.json
+C:\proj\nauka2021\gra\bin\Debug\netcoreapp3.1\gra.runtimeconfig.dev.json
+C:\proj\nauka2021\gra\bin\Debug\netcoreapp3.1\gra.dll
+C:\proj\nauka2021\gra\bin\Debug\netcoreapp3.1\gra.pdb
+C:\proj\nauka2021\gra\obj\Debug\netcoreapp3.1\gra.csprojAssemblyReference.cache
+C:\proj\nauka2021\gra\obj\Debug\netcoreapp3.1\gra.AssemblyInfoInputs.cache
+C:\proj\nauka2021\gra\obj\Debug\netcoreapp3.1\gra.AssemblyInfo.cs
+C:\proj\nauka2021\gra\obj\Debug\netcoreapp3.1\gra.csproj.CoreCompileInputs.cache
+C:\proj\nauka2021\gra\obj\Debug\netcoreapp3.1\gra.dll
+C:\proj\nauka2021\gra\obj\Debug\netcoreapp3.1\gra.pdb
+C:\proj\nauka2021\gra\obj\Debug\netcoreapp3.1\gra.genruntimeconfig.cache
