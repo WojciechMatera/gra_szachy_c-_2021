@@ -8,7 +8,7 @@ namespace gra
 
             szachy sz = new szachy();
 
-          
+            // wyświetlanie szachownicy
 
             int count = 0;
             int[] tablica = new int[] { 1, 3, 5, 7, 9 };
